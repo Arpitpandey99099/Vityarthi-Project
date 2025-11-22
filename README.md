@@ -1,7 +1,7 @@
-📋 Console To-Do List Application
+ Console To-Do List Application
 A simple, persistent, command-line application built with Python to manage daily tasks.
 
-✨ Features
+Features
 This application is designed for quick and easy task management directly from your terminal.
 
 Persistence: Tasks are saved to a local file (todo_list.txt) and automatically loaded when the application restarts.
@@ -16,8 +16,7 @@ Simple Interface: Runs entirely in the console with a clean, text-based menu.
 
 
 
-
-🚀 How to Use
+ How to Use
 The application will launch and present you with a main menu.
 
 Example Interaction:
@@ -33,7 +32,7 @@ Prompt: Enter the new task: Finish Python project
 
 View Tasks Again: Enter 1.
 
-📝 Your To-Do List:
+ Your To-Do List:
   1. Buy groceries
   2. Finish Python project
 Delete a Task: Enter 3.
